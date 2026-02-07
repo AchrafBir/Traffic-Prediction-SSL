@@ -87,4 +87,6 @@ It also includes example code to save/load from Google Drive in Colab.
   - SimCLR pretraining uses pairs of augmented views `(x_i, x_j)`
   - Fine-tuning/evaluation should use `(x, y)` labeled batches
 
+## License
 
+This project is licensed under the MIT License. See `LICENSE`.
